@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T02:26:39.597Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.15.5 Chrome/87.0.4280.144 Safari/537.36" etag="0AMChAropr7AOQyYYief" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T02:29:04.527Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.15.5 Chrome/87.0.4280.144 Safari/537.36" etag="KV51zJ64OP_hK26NQsFC" version="20.2.3" type="github">
   <diagram id="irZrY0_MFv77apMFZJND" name="Page-1">
     <mxGraphModel dx="1422" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="viFgyHe06iuQAPD4dH7f-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="viFgyHe06iuQAPD4dH7f-39" target="viFgyHe06iuQAPD4dH7f-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="viFgyHe06iuQAPD4dH7f-66" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Der er begraenset efterspoergsel&lt;br&gt;&amp;nbsp;eller man vurderer at det ikke &lt;br&gt;kan betale sig at udvide servere&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#2A2A2A;" parent="viFgyHe06iuQAPD4dH7f-54" vertex="1" connectable="0">
+        <mxCell id="viFgyHe06iuQAPD4dH7f-66" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Der er begraenset efterspoergsel&lt;br&gt;&amp;nbsp;eller man vurderer at det ikke &lt;br&gt;kan betale sig at udvide servere&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="viFgyHe06iuQAPD4dH7f-54" vertex="1" connectable="0">
           <mxGeometry x="0.4701" y="-1" relative="1" as="geometry">
             <mxPoint x="-61" y="-27" as="offset" />
           </mxGeometry>
